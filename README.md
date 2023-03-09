@@ -1,2 +1,1 @@
-# AMCSN
-Automated Minecraft Server Network
+# AMCSN - Automated Minecraft Server Network
